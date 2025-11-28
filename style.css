@@ -1,0 +1,8 @@
+.header {
+  font-family: Helvetica, sans-serif;
+  background: #ffffff;
+  border-bottom: 1px solid #e6e9ee;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
